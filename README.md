@@ -94,4 +94,7 @@ The MERN stack is a powerful and efficient solution for building web application
 
 By following the steps outlined in this guide, you can quickly get started with the MERN stack and start building your own web applications. Happy coding!
 ##
-##
+
+
+## Click here for projects:
+[Google](https://www.google.com)
